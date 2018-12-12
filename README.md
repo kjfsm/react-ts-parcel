@@ -1,4 +1,4 @@
-# react-ts-percel setup
+# react-ts-parcel setup
 
 This is react development template.Easy use and Fast development.
 
