@@ -29,4 +29,4 @@ test support
 
 # Link
 
-https://code-log.hatenablog.com/entry/2018/12/10/134425
+https://code-log.hatenablog.com/entry/2018/12/10/134425 (japan)
