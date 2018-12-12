@@ -3,7 +3,7 @@
 This is react development template.Easy use and Fast development.
 
 # Usage
-git clone this repogitory
+git clone this repository
 ```
 git clone https://github.com/hiro08gh/react-ts-parcel
 cd react-ts-parcel
