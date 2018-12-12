@@ -1,11 +1,20 @@
 {
   "compilerOptions": {
     "target": "es5",
-    "module": "commonjs",
+    "allowJs": true,
+    "skipLibCheck": false,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
     "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "module": "commonjs",
+    "isolatedModules": true,
+    "noEmit": true,
     "jsx": "react",
     "rootDir": "./src",
-    "experimentalDecorators": true,
     "lib": ["dom", "es2015"]
-  }
+  },
+	"include": ["./src/**/*"]
 }
