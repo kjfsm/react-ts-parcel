@@ -26,7 +26,3 @@ http://localhost:1234
 
 # TODO
 test support
-
-# Link
-
-https://code-log.hatenablog.com/entry/2018/12/10/134425 (japan)
