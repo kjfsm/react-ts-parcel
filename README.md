@@ -22,7 +22,7 @@ $ npm start
 ```
 Please access below url
 
-http://localhost:1234
+http://localhost:3000
 
 # TODO
 test support
