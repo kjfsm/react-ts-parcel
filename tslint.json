@@ -1,8 +1,7 @@
 {
   "defaultSeverity": "error",
   "extends": [
-    "tslint:latest",
-    "tslint-react"
+    "tslint:latest"
   ],
   "jsRules": {},
   "rules": {},
